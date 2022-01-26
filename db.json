@@ -2,6 +2,7 @@
   "products": [
     {
       "id": "kyqh80arc0lpv0ziyt",
+      "category": "figures",
       "title": "Demon Slayer: Kimetsu no Yaiba Kyojuro Rengoku: Flame Breathing Esoteric Art Ninth Form: Rengoku 1/8 Scale Figure",
       "description": "Either it's getting hot in here, or Demon Slayer: Kimetsu no Yaibas Kyojuro Rengoku just activated his Flame Breathing Esoteric Art Ninth Form: Rengoku! Judging by this brilliant 1/8 scale piece produced by Mederukin and Aniplex that we see before our eyes, we suspect it's the latter!\n The intensity seen in Rengoku-san's face and the slashing action of his Nichirin sword are perfectly matched. His haori coat billows upward from the force of his Technique. And 360 degrees around Rengoku-san, tongues of fire dance around him! The flames culminate and arch over him in the shape of a fierce dragon!",
       "price": 244.98,
@@ -21,6 +22,7 @@
     },
     {
       "id": "kyqh9btwqnfwxj1htpa",
+      "category": "figures",
       "title": "Precious G.E.M. Series Naruto Itachi Uchiha: Susano Ver. w/ LED Base",
       "description": "MegaHouse's Precious G.E.M. series gives Itachi Uchiha the love he deserves with a new spine-tingling figure! This figure measures a monstrous 15\" tall with the included effect sculpture. Exercising one of the most powerful known jutsus in the Naruto series, Itachi has summoned his fiery red Susano!\n The Akatsuki member stands on the palm of Susano's hand, protected on all sides by Susano's spine. Translucent materials were used to realize this beautifully sculpted summon. And the effects of Susano further come to life thanks to the included LED base!",
       "price": 375.34,
@@ -40,6 +42,7 @@
     },
     {
       "id": "kyqh9l5sybjhxedyesa",
+      "category": "figures",
       "title": "ArtFX J Attack on Titan Levi: Fortitude Ver. (Re-run)",
       "description": "Humanity's Strongest Soldier shows his fortitude and resolve! From Kotobukiya with sculpting by Shin Tanabe comes this 1/7 scale ArtFX J figure re-release of Levi (Fortitude Ver.) from Attack on Titan. Measuring 6.7”, he crouches on a patch of grass with Titan blood splattered all over his outfit, face, and hands as he readies his Three Dimensional Maneuver Gear blades for another attack.\n The wires that whip around his body and the billowing of his tattered and bloody Survey Corps cape add to the atmosphere. His look is a serious, calculated glare that gives off the feeling of urgency. Fine paintwork and sculpting details of his equipment and outfit have been carefully completed, from his jacket and holsters to his boots. Add the incredible fighter Levi to your collection!",
       "price": 149.24,
@@ -59,6 +62,7 @@
     },
     {
       "id": "kyqh9tapirpmbox8owf",
+      "category": "figures",
       "title": "Art Works Monsters Yu-Gi-Oh! Duel Monsters Black Magician",
       "description": "Sculptors Kenji Ando and Pinpoint bring us a riveting interpretation of the Black Magician from Yu-Gi-Oh! Duel Monsters! Measuring 9.1\" tall, The Black Magician stands atop his Dark Magical Circle, placed above roaring waves. Metallic coloring was used to realize his blue and rose colored armor. The colors help the amazing level of sculpting truly stand out! This piece will be an utter joy for loyal fans of the series to own.",
       "price": 148.29,
@@ -75,6 +79,145 @@
       "itsOnSale": false,
       "initial": 0,
       "stock": 9
+    },
+    {
+      "id": "kyvz0r0kkkuv2c0yd0f",
+      "category": "plushies",
+      "title": "Monster Hunter Rise Plush Collection (Re-run)",
+      "description": "Fans are getting another chance to capture a cute, cuddly, and totally not dangerous Palamute, Magnamalo, or a helpful Palico of their very own from Monster Hunter Rise with this re-release from Capcom! Each soft polyester plush has a cute chibi form and embroidered expression while still retaining their characteristic details from the game. Let them keep you company while you game!",
+      "price": 19.59,
+      "series": "Monster Hunter Rise",
+      "manufacturer": "Capcom",
+      "size": "200 mm | 7.9\"",
+      "materials": "Polyester",
+      "pictures": [
+        "https://images2.imgbox.com/a3/9c/vmeA9IZi_o.jpg",
+        "https://images2.imgbox.com/4d/fc/FE6C4c6t_o.jpg",
+        "https://images2.imgbox.com/69/81/KWMOhT2j_o.jpg",
+        "https://images2.imgbox.com/cb/4f/DmIGFxFe_o.jpg"
+      ],
+      "itsOnSale": false,
+      "initial": 0,
+      "stock": 5
+    },
+    {
+      "id": "kyvz0yqkdziqqhvkia",
+      "category": "plushies",
+      "title": "Made in Abyss Nanachi Plush (Re-run)",
+      "description": "From Chara-Ani comes a re-release of Nanachi from Made in Abyss in cuddly plushie form! Measuring 13.4”, the rabbit-like Narehate and master of the Abyss is soft and fluffy with a cute embroidered expression and is detailed down to her long ears, headpiece, and long, flowing hair. Let her enjoy some time outside the abyss by bringing her to your place!",
+      "price": 32.89,
+      "series": "Made in Abyss",
+      "manufacturer": "Chara-Ani",
+      "size": "34 cm | 13.4\"",
+      "materials": "Polyester, acrylic, Polyester, PE",
+      "pictures": [
+        "https://images2.imgbox.com/80/cd/ZA2y2TZx_o.jpg",
+        "https://images2.imgbox.com/12/69/zoL3424e_o.jpg",
+        "https://images2.imgbox.com/0f/95/P8QCJSrA_o.jpg",
+        "https://images2.imgbox.com/e9/91/BkO6EVzV_o.jpg"
+      ],
+      "itsOnSale": false,
+      "initial": 0,
+      "stock": 12
+    },
+    {
+      "id": "kyvz15l4d5u3ydqjif",
+      "category": "plushies",
+      "title": "Re:Zero -Starting Life in Another World- Rem: Subaru-kun's Jersey Ver. Precious Big Plush",
+      "description": "From Chari-Ani comes this big plushie of Rem from Re:Zero -Starting Life in Another World-. Measuring a massive 19.7\", she is the perfect size for a BIG HUG. Her outfit is made of real felt with a zipper for a high-quality appearance. \nShe also features a carefully embroidered, blushing expression with bright blue eyes, and her blue bob has been made out of soft felt. Look at her little thumbs! XD If you've even wanted to hug a chibi version of Rem, now's your chance! Add her to your collection and display her cutely on a couch, bed, or your desk chair when not in use!",
+      "price": 88.94,
+      "series": "Re:Zero -Starting Life in Another World-",
+      "manufacturer": "Chara-Ani",
+      "size": "50 cm | 19.7\"",
+      "materials": "Polyester, plastic (zipper)",
+      "pictures": [
+        "https://images2.imgbox.com/22/c8/t4A6dqmf_o.jpg",
+        "https://images2.imgbox.com/aa/23/jKEpgN30_o.jpg",
+        "https://images2.imgbox.com/56/c2/X3CsWILI_o.jpg",
+        "https://images2.imgbox.com/e8/5a/rA4CcFvU_o.jpg"
+      ],
+      "itsOnSale": false,
+      "initial": 0,
+      "stock": 6
+    },
+    {
+      "id": "kyvz1bff7fjtakz33cg",
+      "category": "plushies",
+      "title": "Kirby Dream Gear Plush Collection",
+      "description": "\"Hai!\" Kirby, Waddle Dee, and Meta Knight look adorable dressed up in steampunk outfits with mechanical-inspired headgear! Each plushie measures about 5” and is made of soft colorful fabric with carefully stitched embroidered details such as their big eyes! Collect all three or choose your favorite! ⚙️",
+      "price": 14.84,
+      "series": "Kirby",
+      "manufacturer": "San-Ei Co., Ltd.",
+      "size": "13 x 8 x 14 cm | 5.1\" x 3.1\" x 5.5\"",
+      "pictures": [
+        "https://images2.imgbox.com/df/ae/5UBxO1RW_o.jpg",
+        "https://images2.imgbox.com/1f/75/LYGEwRqE_o.jpg",
+        "https://images2.imgbox.com/91/a3/fRStR6dQ_o.jpg",
+        "https://images2.imgbox.com/f5/2b/xEquPkZ9_o.jpg"
+      ],
+      "itsOnSale": false,
+      "initial": 0,
+      "stock": 12
+    },
+    {
+      "id": "kyvzx6yisk9tymb3dyi",
+      "category": "manga",
+      "title": "Spy x Family Vol. 8",
+      "description": "Loid Forger is a spy codenamed “Twilight” who has just been given his toughest mission yet: Operation Strix. His target is Donovan Desmond, a prominent politician and President of the National Unity Party of Ostania, but in order to get close to him, he must first pose as a family man with a wife and child. To that end, he marries a beautiful woman named Yor Forger and adopts a precocious young girl named Anya. But little does he know that Yor is actually a skilled assassin nicknamed \"Thorn Princess” and Anya is a telepath! A thrilling comedy about a family all hiding their true identities from one another begins!",
+      "price": 5.69,
+      "author_illustrator": "Tatsuya Endo",
+      "publisher": "Shueisha",
+      "pages": 210,
+      "language": "Japanese",
+      "pictures": ["https://images2.imgbox.com/bb/8c/b20hJ9sr_o.jpg"],
+      "itsOnSale": false,
+      "initial": 0,
+      "stock": 87
+    },
+    {
+      "id": "kyvzxf73wcslsufgtz",
+      "category": "manga",
+      "title": "My Hero Academia Vol. 31",
+      "description": "Loid Forger is a spy codenamed “Twilight” who has just been given his toughest mission yet: Operation Strix. His target is Donovan Desmond, a prominent politician and President of the National Unity Party of Ostania, but in order to get close to him, he must first pose as a family man with a wife and child. To that end, he marries a beautiful woman named Yor Forger and adopts a precocious young girl named Anya. But little does he know that Yor is actually a skilled assassin nicknamed \"Thorn Princess” and Anya is a telepath! A thrilling comedy about a family all hiding their true identities from one another begins!",
+      "price": 4.74,
+      "author_illustrator": "Kohei Horikoshi",
+      "publisher": "Shueisha",
+      "pages": 216,
+      "language": "Japanese",
+      "pictures": ["https://images2.imgbox.com/33/cf/VGbYu1wh_o.jpg"],
+      "itsOnSale": false,
+      "initial": 0,
+      "stock": 12
+    },
+    {
+      "id": "kyvzxk96rugrpsgdq9d",
+      "category": "manga",
+      "title": "Chainsaw Man Vol. 11",
+      "description": "There exist in the world Devils born from human fears who possess powerful supernatural abilities and harm humans. Denji is a young, broke man who works for the yakuza as a Devil Hunter in an attempt to repay his late father’s debts. Helping Denji with his task is his dog Pochita, who is actually a Devil that resembles a chainsaw. After being betrayed by the yakuza, Denji is killed by a Devil and Pochita is gravely injured. However, due to a previously made pact between the two, Pochita sacrifices himself and merges with Denji, reviving him as a human-Devil hybrid with kick-ass chainsaw powers! Now technically a Devil himself, Denji is recruited into the Public Safety Devil Hunters in order to avoid being hunted by them. How will his life change now that he’s the Chainsaw Man? Find out in this dark fantasy action manga by Tatsuki Fujimoto!",
+      "price": 4.74,
+      "author_illustrator": "Tatsuki Fujimoto",
+      "publisher": "Shueisha",
+      "pages": 192,
+      "language": "Japanese",
+      "pictures": ["https://images2.imgbox.com/3d/99/7a4QEzG4_o.jpg"],
+      "itsOnSale": false,
+      "initial": 0,
+      "stock": 40
+    },
+    {
+      "id": "kyvzxowwuv8yxvk5qld",
+      "category": "manga",
+      "title": "Attack on Titan Vol. 30",
+      "description": "In Vol. 30, Zeke’s plan to wipe out the Eldians is revealed, but the key to the plan lies with Zeke reuniting with Eren and unlocking his power of the Founding Titan. Though Zeke is able to break free from Levi and the Survey Corps, the Marleyan army soon advances, and Eren finds himself fighting his way through former friends as the battle rages around him. Will the two finally succeed in being reunited?",
+      "price": 5.69,
+      "author_illustrator": "Hajime Isayama",
+      "publisher": "Kodansha",
+      "pages": 192,
+      "language": "Japanese",
+      "pictures": ["https://images2.imgbox.com/7c/80/hZwofmfG_o.jpg"],
+      "itsOnSale": false,
+      "initial": 0,
+      "stock": 32
     }
   ]
 }
