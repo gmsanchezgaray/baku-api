@@ -219,5 +219,34 @@
       "initial": 0,
       "stock": 32
     }
+  ],
+  "infoPage": [
+    {
+      "collectionPictires": [
+        "https://images2.imgbox.com/f9/f9/x6SPTZer_o.png",
+        "https://images2.imgbox.com/51/12/6Kd6xeAg_o.png",
+        "https://images2.imgbox.com/02/4a/CKSR0bgN_o.png",
+        "https://images2.imgbox.com/1b/d1/Gp5CpIbc_o.png",
+        "https://images2.imgbox.com/21/df/IEbVelRE_o.png",
+        "https://images2.imgbox.com/b8/96/sJlW2jFg_o.png"
+      ]
+    },
+    {
+      "banners": [
+        "https://images2.imgbox.com/d0/bc/zGgBgEQa_o.png",
+        "https://images2.imgbox.com/02/69/dtX7hAi6_o.png",
+        "https://images2.imgbox.com/63/99/out5KOqF_o.png",
+        "https://images2.imgbox.com/26/f4/A1LPOhtk_o.png",
+        "https://images2.imgbox.com/60/96/jpi22wuc_o.png"
+      ]
+    },
+    {
+      "aboutUs": [
+        "Baku store was established in June 2021, the idea of ​​establishing the store was based on our interest for the entertainment field through Japanese anime, Marvel, DC and many others",
+        "Certainly, our goal is to delight and satisfy every customer who chooses our store Baku, starting with the quality of our products to the customer service and the speed of delivery.",
+        "Perhaps we are not the best in our field, but what is make us special is that we are passionate about what we present to you and always strive to achieve your satisfaction through our attention to the smallest details in order to reach your satisfaction and listen to any suggestions or complaints that are a reason to develop our store for the better always.",
+        ""
+      ]
+    }
   ]
 }
