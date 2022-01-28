@@ -17,6 +17,7 @@
         "https://images2.imgbox.com/4e/23/QaL7I2XX_o.jpg"
       ],
       "itsOnSale": false,
+      "bestSeller": true,
       "initial": 0,
       "stock": 56
     },
@@ -37,6 +38,7 @@
         "https://images2.imgbox.com/4b/02/a3dAhISE_o.jpg"
       ],
       "itsOnSale": false,
+      "bestSeller": false,
       "initial": 0,
       "stock": 28
     },
@@ -57,6 +59,7 @@
         "https://images2.imgbox.com/16/54/rRfad9JT_o.jpg"
       ],
       "itsOnSale": true,
+      "bestSeller": false,
       "initial": 0,
       "stock": 67
     },
@@ -77,6 +80,7 @@
         "https://images2.imgbox.com/27/ba/N4hXLvxt_o.jpg"
       ],
       "itsOnSale": false,
+      "bestSeller": false,
       "initial": 0,
       "stock": 9
     },
@@ -97,6 +101,7 @@
         "https://images2.imgbox.com/cb/4f/DmIGFxFe_o.jpg"
       ],
       "itsOnSale": false,
+      "bestSeller": false,
       "initial": 0,
       "stock": 5
     },
@@ -117,6 +122,7 @@
         "https://images2.imgbox.com/e9/91/BkO6EVzV_o.jpg"
       ],
       "itsOnSale": false,
+      "bestSeller": true,
       "initial": 0,
       "stock": 12
     },
@@ -137,6 +143,7 @@
         "https://images2.imgbox.com/e8/5a/rA4CcFvU_o.jpg"
       ],
       "itsOnSale": false,
+      "bestSeller": false,
       "initial": 0,
       "stock": 6
     },
@@ -156,6 +163,7 @@
         "https://images2.imgbox.com/f5/2b/xEquPkZ9_o.jpg"
       ],
       "itsOnSale": false,
+      "bestSeller": true,
       "initial": 0,
       "stock": 12
     },
@@ -171,6 +179,7 @@
       "language": "Japanese",
       "pictures": ["https://images2.imgbox.com/bb/8c/b20hJ9sr_o.jpg"],
       "itsOnSale": false,
+      "bestSeller": false,
       "initial": 0,
       "stock": 87
     },
@@ -186,6 +195,7 @@
       "language": "Japanese",
       "pictures": ["https://images2.imgbox.com/33/cf/VGbYu1wh_o.jpg"],
       "itsOnSale": false,
+      "bestSeller": false,
       "initial": 0,
       "stock": 12
     },
@@ -201,6 +211,7 @@
       "language": "Japanese",
       "pictures": ["https://images2.imgbox.com/3d/99/7a4QEzG4_o.jpg"],
       "itsOnSale": false,
+      "bestSeller": true,
       "initial": 0,
       "stock": 40
     },
@@ -216,6 +227,7 @@
       "language": "Japanese",
       "pictures": ["https://images2.imgbox.com/7c/80/hZwofmfG_o.jpg"],
       "itsOnSale": false,
+      "bestSeller": false,
       "initial": 0,
       "stock": 32
     }
